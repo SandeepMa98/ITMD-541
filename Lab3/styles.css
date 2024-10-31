@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    /* background-color: #f4f4f4; */
+    background-color: rgb(15, 174, 39); 
     color: #333;
     margin: 0;
     padding: 0;
@@ -9,7 +10,7 @@ body {
 .container {
     max-width: 500px;
     margin: 50px auto;
-    background: #fff;
+    background: rgb(213, 235, 213) ;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -17,7 +18,7 @@ body {
 
 h3 {
     text-align: center;
-    color: #4CAF50;
+    color: rgb(5, 98, 19);
     margin-bottom: 20px;
 }
 
